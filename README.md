@@ -2,7 +2,7 @@
 
 This is the most powerful and developer friendly visual email builder for your app.
 
-|
+![Demo ](Template.png)
 
 ## Live Demo
 
